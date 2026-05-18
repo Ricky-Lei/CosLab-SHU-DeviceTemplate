@@ -3,9 +3,9 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "device_package_example"
+name = "CosLab_SHU_Device_package_example"
 version = "0.1.0"
-description = "Uni-Lab-OS external device package example"
+description = "上海大学MGI-Coslab设备仓库"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
